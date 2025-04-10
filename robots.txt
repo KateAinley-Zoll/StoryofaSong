@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kateainley-zoll.github.io/StoryofaSong/sitemap.xml
